@@ -1,0 +1,6 @@
+{
+  "name": "Viswakarma Steels",
+  "description": "Viswakarma Steels manufactures durable steel products including almirahs, coolers, tanks, racks and customized steel products in Sikar, Rajasthan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
